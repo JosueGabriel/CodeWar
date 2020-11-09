@@ -1,3 +1,7 @@
+/*
+    g++ -o Hello HelloWorld.cpp
+    .\Hello
+*/
 #include <iostream>
 
 int main(){
